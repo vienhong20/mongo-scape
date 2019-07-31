@@ -1,8 +1,10 @@
 # Scrape
 
 <h2>Tools and Applications:</h2>
-.Javascript 
-.Node.js 
+<ul>
+  <li>Javascript </li>
+  <li>Node.js </li>
+  </ul>
 
 <h2>Node packages:</h2> 
 <ul>
